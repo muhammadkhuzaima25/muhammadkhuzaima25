@@ -63,6 +63,7 @@ Helps semester students manage deadlines, organize tasks, and reduce academic st
 
 **Stack:** React · Node.js · MongoDB Atlas · Vercel
 
+[![Demo](https://img.shields.io/badge/Live_Demo-weekplanr.vercel.app-00C98A?style=flat-square)](https://weekplanr.vercel.app)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/muhammadkhuzaima25/WeekPlanr)
 
 </td>
@@ -80,6 +81,8 @@ Smart Split Optimizer automatically finds the cheapest vendor per item. Built fo
 
 **Stack:** React · Node.js · MongoDB · Express · Vercel
 
+
+[![Demo](https://img.shields.io/badge/Live_Demo-splitrak.vercel.app-00C27A?style=flat-square)](https://splitrak.vercel.app)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/muhammadkhuzaima25/Splitrak)
 
 </td>
@@ -97,6 +100,8 @@ Full-stack MERN marketplace where users can switch between hiring freelancers an
 
 **Stack:** React · Node.js · MongoDB · Express
 
+
+[![Demo](https://img.shields.io/badge/Live_Demo-skilzavo.vercel.app-f27405?style=flat-square)](https://skilzavo.vercel.app)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/muhammadkhuzaima25/skilzavo)
 
 </td>
@@ -107,6 +112,8 @@ Full-stack MERN marketplace where users can switch between hiring freelancers an
 
 Clean, responsive HTML/CSS portfolio showcasing my design and development work.
 
+
+[![Demo](https://img.shields.io/badge/Live_Demo-muhammadkhuzaima.vercel.app-000000?style=flat-square)](https://muhammadkhuzaima.vercel.app)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/muhammadkhuzaima25/portfolio)
 
 </td>
@@ -162,22 +169,6 @@ Clean, responsive HTML/CSS portfolio showcasing my design and development work.
 
 ---
 
-## 🎯 About Me
-
-```javascript
-const khuzaima = {
-  role:       "Full Stack MERN Developer",
-  education:  "BSCS @ GCU Lahore (Batch F23, 2023–2027)",
-  freelance:  "Graphic Designer & Logo Expert on Fiverr",
-  location:   "Lahore, Pakistan 🇵🇰",
-  interests:  ["AI Integrations", "Product Building", "Freelancing"],
-  currentlyBuilding: ["WeekPlanr", "AI-powered tools"],
-  lookingFor: "Remote Internships & Freelance Projects",
-  motto:      "Build things that solve real problems. Ship fast."
-};
-```
-
----
 
 ## 📫 Connect With Me
 
@@ -195,7 +186,7 @@ const khuzaima = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=muhammadkhuzaima25&color=6C63FF&style=flat-square&label=Profile+Views)
+
 
 **⭐ Star my repos if they helped you! It means everything to a developer grinding from scratch. 🙏**
 
