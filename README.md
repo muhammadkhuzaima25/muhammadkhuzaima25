@@ -119,7 +119,7 @@ Clean, responsive HTML/CSS portfolio showcasing my design and development work.
 </td>
 </tr>
 </table>
----
+
 
 ## 🛠️ Tech Stack
 
@@ -158,17 +158,6 @@ Clean, responsive HTML/CSS portfolio showcasing my design and development work.
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadkhuzaima25&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 
 ## 📫 Connect With Me
 
