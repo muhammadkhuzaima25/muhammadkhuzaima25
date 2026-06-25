@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Khuzaima&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20Integrations%20%7C%20GCU%20Lahore&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI-powered+web+apps+%F0%9F%9A%80;MERN+Stack+%2B+Google+Gemini+%2B+OpenRouter;GCU+Lahore+BSCS+%7C+Batch+F23;Freelance+Graphic+Designer+%40+Fiverr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI-powered+web+apps+%F0%9F%9A%80;GCU+Lahore+BSCS+%7C+Batch+23;Freelance+Graphic+Designer+%40+Fiverr)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🥇 ResuMatch.ai
+### ResuMatch.ai
 **AI-Powered ATS Resume Analyzer**
 
 Strict mathematical ATS scoring engine. No inflated scores — just honest, data-driven feedback.
@@ -26,13 +26,12 @@ Strict mathematical ATS scoring engine. No inflated scores — just honest, data
 
 **Stack:** React 19 · Node.js · MongoDB Atlas · Gemini 1.5 Flash · Vercel
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-resumatch--hub.vercel.app-6366f1?style=flat-square&labelColor=0f172a)](https://resumatch-hub.vercel.app)
-[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=flat-square&logo=github&labelColor=0f172a)](https://github.com/muhammadkhuzaima25/Ai_Resume_Analyzer)
+[🌐 Live Demo](https://resumatch-hub.vercel.app) · [📁 Repo](https://github.com/muhammadkhuzaima25/Ai_Resume_Analyzer)
 
 </td>
 <td width="50%" valign="top">
 
-### 🥈 AptifyAI
+### AptifyAI
 **AI Aptitude Trainer for Pakistani Students**
 
 Fresh AI-generated MCQs every session. Never recycled. Targets NTS, GAT, MDCAT, CSS/PMS.
@@ -44,15 +43,14 @@ Fresh AI-generated MCQs every session. Never recycled. Targets NTS, GAT, MDCAT, 
 
 **Stack:** React 18 · Node.js · MongoDB Atlas · OpenRouter · Vercel
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-aptifyai.vercel.app-84CC16?style=flat-square&labelColor=0f172a)](https://aptifyai.vercel.app)
-[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=flat-square&logo=github&labelColor=0f172a)](https://github.com/muhammadkhuzaima25/AptifyAi)
+[🌐 Live Demo](https://aptifyai.vercel.app) · [📁 Repo](https://github.com/muhammadkhuzaima25/AptifyAi)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🥉 WeekPlanr
+### WeekPlanr
 **AI-Powered Weekly Study Planner**
 
 Helps semester students manage deadlines, organize tasks, and reduce academic stress using AI.
@@ -63,12 +61,12 @@ Helps semester students manage deadlines, organize tasks, and reduce academic st
 
 **Stack:** React · Node.js · MongoDB Atlas · Vercel
 
-[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=flat-square&logo=github&labelColor=0f172a)](https://github.com/muhammadkhuzaima25/WeekPlanr)
+[📁 Repo](https://github.com/muhammadkhuzaima25/WeekPlanr)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏅 Splitrak
+### Splitrak
 **Vendor Management & Quotation System**
 
 Smart Split Optimizer automatically finds the cheapest vendor per item. Built for procurement.
@@ -80,7 +78,7 @@ Smart Split Optimizer automatically finds the cheapest vendor per item. Built fo
 
 **Stack:** React · Node.js · MongoDB · Express · Vercel
 
-[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=flat-square&logo=github&labelColor=0f172a)](https://github.com/muhammadkhuzaima25/Splitrak)
+[📁 Repo](https://github.com/muhammadkhuzaima25/Splitrak)
 
 </td>
 </tr>
@@ -97,7 +95,7 @@ Full-stack MERN marketplace where users can switch between hiring freelancers an
 
 **Stack:** React · Node.js · MongoDB · Express
 
-[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=flat-square&logo=github&labelColor=0f172a)](https://github.com/muhammadkhuzaima25/skilzavo)
+[📁 Repo](https://github.com/muhammadkhuzaima25/skilzavo)
 
 </td>
 <td width="50%" valign="top">
@@ -107,7 +105,7 @@ Full-stack MERN marketplace where users can switch between hiring freelancers an
 
 Clean, responsive HTML/CSS portfolio showcasing my design and development work.
 
-[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=flat-square&logo=github&labelColor=0f172a)](https://github.com/muhammadkhuzaima25/portfolio)
+[📁 Repo](https://github.com/muhammadkhuzaima25/portfolio)
 
 </td>
 </tr>
