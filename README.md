@@ -20,13 +20,14 @@
 Strict mathematical ATS scoring engine. No inflated scores — just honest, data-driven feedback.
 
 - 📊 Fair ATS formula: `Score = (Matched / Total) × 10`
-- 🔍 Fuzzy keyword matching (NodeJS ↔ Node.js)
+- 🔎 Fuzzy keyword matching (NodeJS ↔ Node.js)
 - 🔐 Google OAuth 2.0 + reCAPTCHA v3
 - ⚡ AI fallback chain: Gemini → OpenRouter → Mock
 
 **Stack:** React 19 · Node.js · MongoDB Atlas · Gemini 1.5 Flash · Vercel
 
-[🌐 Live Demo](https://resumatch-hub.vercel.app) · [📁 Repo](https://github.com/muhammadkhuzaima25/Ai_Resume_Analyzer)
+[![Demo](https://img.shields.io/badge/Live_Demo-resumatch--hub.vercel.app-6366f1?style=flat-square)](https://resumatch-hub.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/muhammadkhuzaima25/Ai_Resume_Analyzer)
 
 </td>
 <td width="50%" valign="top">
@@ -36,14 +37,15 @@ Strict mathematical ATS scoring engine. No inflated scores — just honest, data
 
 Fresh AI-generated MCQs every session. Never recycled. Targets NTS, GAT, MDCAT, CSS/PMS.
 
-- 🧠 OpenRouter Llama 3.3 70B live question gen
-- 📊 Progress analytics + weak topic detection
+- 💡 OpenRouter Llama 3.3 70B live question gen
+- 📈 Progress analytics + weak topic detection
 - 🏆 Daily streaks + full session history
 - 🌙 Full dark/light mode support
 
 **Stack:** React 18 · Node.js · MongoDB Atlas · OpenRouter · Vercel
 
-[🌐 Live Demo](https://aptifyai.vercel.app) · [📁 Repo](https://github.com/muhammadkhuzaima25/AptifyAi)
+[![Demo](https://img.shields.io/badge/Live_Demo-aptifyai.vercel.app-84CC16?style=flat-square)](https://aptifyai.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/muhammadkhuzaima25/AptifyAi)
 
 </td>
 </tr>
@@ -55,13 +57,13 @@ Fresh AI-generated MCQs every session. Never recycled. Targets NTS, GAT, MDCAT, 
 
 Helps semester students manage deadlines, organize tasks, and reduce academic stress using AI.
 
-- 📅 Smart weekly schedule generation
+- 🗓️ Smart weekly schedule generation
 - 🎯 Deadline tracking for university students
 - 🤖 AI-driven task prioritization
 
 **Stack:** React · Node.js · MongoDB Atlas · Vercel
 
-[📁 Repo](https://github.com/muhammadkhuzaima25/WeekPlanr)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/muhammadkhuzaima25/WeekPlanr)
 
 </td>
 <td width="50%" valign="top">
@@ -78,7 +80,7 @@ Smart Split Optimizer automatically finds the cheapest vendor per item. Built fo
 
 **Stack:** React · Node.js · MongoDB · Express · Vercel
 
-[📁 Repo](https://github.com/muhammadkhuzaima25/Splitrak)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/muhammadkhuzaima25/Splitrak)
 
 </td>
 </tr>
@@ -91,11 +93,11 @@ Smart Split Optimizer automatically finds the cheapest vendor per item. Built fo
 Full-stack MERN marketplace where users can switch between hiring freelancers and offering services.
 
 - 🔄 Dual-role switching (hire / offer)
-- 🛒 Service listings & booking flow
+- 🛍️ Service listings & booking flow
 
 **Stack:** React · Node.js · MongoDB · Express
 
-[📁 Repo](https://github.com/muhammadkhuzaima25/skilzavo)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/muhammadkhuzaima25/skilzavo)
 
 </td>
 <td width="50%" valign="top">
@@ -105,12 +107,11 @@ Full-stack MERN marketplace where users can switch between hiring freelancers an
 
 Clean, responsive HTML/CSS portfolio showcasing my design and development work.
 
-[📁 Repo](https://github.com/muhammadkhuzaima25/portfolio)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-24292e?style=flat-square&logo=github)](https://github.com/muhammadkhuzaima25/portfolio)
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
